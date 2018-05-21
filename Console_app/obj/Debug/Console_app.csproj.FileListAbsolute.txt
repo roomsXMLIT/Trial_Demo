@@ -1,0 +1,4 @@
+c:\users\it31\documents\visual studio 2013\Projects\Console_app\Console_app\bin\Debug\Console_app.exe
+c:\users\it31\documents\visual studio 2013\Projects\Console_app\Console_app\bin\Debug\Console_app.pdb
+c:\users\it31\documents\visual studio 2013\Projects\Console_app\Console_app\obj\Debug\Console_app.exe
+c:\users\it31\documents\visual studio 2013\Projects\Console_app\Console_app\obj\Debug\Console_app.pdb
